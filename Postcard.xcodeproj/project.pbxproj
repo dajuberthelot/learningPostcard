@@ -13,6 +13,8 @@
 		F9331FC61B51BAFA00F73C44 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F9331FC51B51BAFA00F73C44 /* Images.xcassets */; };
 		F9331FC91B51BAFA00F73C44 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F9331FC71B51BAFA00F73C44 /* LaunchScreen.xib */; };
 		F9331FD51B51BAFA00F73C44 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9331FD41B51BAFA00F73C44 /* PostcardTests.swift */; };
+		F9331FDF1B51BB4A00F73C44 /* Sagrada_Família._Façana_del_Naixement.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F9331FDE1B51BB4A00F73C44 /* Sagrada_Família._Façana_del_Naixement.jpg */; };
+		F9331FE11B51BB5600F73C44 /* Albert_Einstein_1979_USSR_Stamp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F9331FE01B51BB5600F73C44 /* Albert_Einstein_1979_USSR_Stamp.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		F9331FCE1B51BAFA00F73C44 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9331FD31B51BAFA00F73C44 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F9331FD41B51BAFA00F73C44 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		F9331FDE1B51BB4A00F73C44 /* Sagrada_Família._Façana_del_Naixement.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Sagrada_Família._Façana_del_Naixement.jpg"; sourceTree = "<group>"; };
+		F9331FE01B51BB5600F73C44 /* Albert_Einstein_1979_USSR_Stamp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Albert_Einstein_1979_USSR_Stamp.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		F9331FBC1B51BAFA00F73C44 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				F9331FDE1B51BB4A00F73C44 /* Sagrada_Família._Façana_del_Naixement.jpg */,
+				F9331FE01B51BB5600F73C44 /* Albert_Einstein_1979_USSR_Stamp.jpg */,
 				F9331FBD1B51BAFA00F73C44 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -194,6 +200,8 @@
 			files = (
 				F9331FC41B51BAFA00F73C44 /* Main.storyboard in Resources */,
 				F9331FC91B51BAFA00F73C44 /* LaunchScreen.xib in Resources */,
+				F9331FE11B51BB5600F73C44 /* Albert_Einstein_1979_USSR_Stamp.jpg in Resources */,
+				F9331FDF1B51BB4A00F73C44 /* Sagrada_Família._Façana_del_Naixement.jpg in Resources */,
 				F9331FC61B51BAFA00F73C44 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
